@@ -1,0 +1,25 @@
+<html>
+    <body align="center">
+        <form>
+        <h1>GEEKSTER REGISTRATION FORM</h1><hr/>
+        <br/>
+        <br/>
+        <h3>First Name &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text"name="name"placeholder="Enter first name"/></h3>
+        <h3>Last Name &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type ="text"name="name"placeholder="anter last name"/></h3>
+        <h3>NIck Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text"name="name"placeholder="enter Nick name"/></h3>
+        <h3>Enter e-Mail &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="mail"name="e mail"placeholder="enter mail"/></h3>
+        <h3>mobile number&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="number"name="number"placeholder="enter mobile number"/></h3>
+        <h3>Date of Birth&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="date"/></h3>
+        <h3>password&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text"name="password"placeholder="*******"/></h3>
+         <h3>gender &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <select>
+            <option disbaled selected>select gender</option>
+            <option>male</option>
+            <option>female</option>
+        </select></h3>
+        <input type="checkbox"<p>by signing up you agree terms and conditions</p>
+        <INPUT type="submit"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="reset"/>
+        </form>
+
+    </body>
+</html>
