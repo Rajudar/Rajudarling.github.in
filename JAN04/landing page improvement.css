@@ -1,0 +1,96 @@
+
+.color{
+    color: rgb(26, 187, 228);
+}
+#image {
+    background-image: url("https://img.freepik.com/free-photo/skyscraper-view-city-leader-window-frame_1134-1034.jpg?size=626&ext=jpg");
+
+    background-position:;
+    background-size: cover;
+    
+    
+  }
+  h4{
+      text-align:center;
+      margin-top:300;
+      margin-right:100px
+  }
+  h1{
+      text-align:center;
+      margin-top:0;
+      margin-right:100px;
+  }
+button{
+
+      list-style-type:none;
+     
+     background-color:rgb(23, 235, 69);
+     margin-left:550px;
+     border-radius:50px;
+     size: 50px;
+    }
+    #container{
+        background-color:rgb(213, 235, 235);
+        text-align:center;
+    }
+    #container ul {
+        display:flex;
+       
+        
+        
+        
+    }
+#container ul li{
+    list-style-type:none;
+    margin-left:150px;
+    margin-top:20px;
+    font-size:20;
+    border:1px ;
+    padding:20;
+    text-align:center;
+    
+
+}
+#container ul li a{
+    text-decoration:none;
+    color:black;
+    text-align:center;
+    
+    
+}
+#container ul li a:hover{
+    color:darkorchid;
+    background-color:azure;
+}
+*{
+    margin:0;
+    padding:0;
+}
+button:hover{
+    color:orange;
+    background-color:blue
+}
+h4::first-letter{
+    color:brown;
+    font-size:50px;
+}
+
+     
+     
+
+
+     
+    
+  
+
+
+
+
+
+
+
+
+
+  
+  
+ 
