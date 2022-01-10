@@ -1,0 +1,28 @@
+.color{
+    color: rgb(26, 187, 228);
+}
+#image {
+    background-image: url("https://img.freepik.com/free-photo/skyscraper-view-city-leader-window-frame_1134-1034.jpg?size=626&ext=jpg");
+
+    
+    background-size: cover;
+    
+    
+  }
+  h4{
+      text-align:center;
+      margin-top:300;
+      margin-right:100px
+  }
+  h1{
+      text-align:center;
+      margin-top:0;
+      margin-right:100px;
+  }
+  button{
+     
+     background-color:rgb(23, 235, 69);
+     margin-left:550px;
+     border-radius:50px;
+     size: 50px;
+  }
