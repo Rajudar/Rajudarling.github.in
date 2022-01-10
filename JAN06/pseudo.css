@@ -1,0 +1,46 @@
+div{
+    border:2px solid green;
+    padding:0px;
+    
+    margin-left:500px;
+    margin-right:250px ;
+    border-top:green solid 2px;
+    border-left:red solid 2px;
+    border-right:blue solid 2px;
+    border-bottom:brown solid 2px;
+    margin-top:30px;
+    margin-bottom:30px;
+
+  
+}
+p{
+    text-align:center;
+}
+div{
+    text-align:center;
+}
+h1{
+    text-align:center;
+
+}
+h1:hover{
+    color:rgb(214, 16, 16);
+    background-color:bisque;
+    display:block;
+}
+p:hover{
+;
+    color:rgb(54, 10, 214)
+}
+#text::first-letter {
+    color:green;
+    font-size: 70px;
+   ;
+    
+}
+
+body{
+    border:2px solid #f20cb5;
+
+}
+
