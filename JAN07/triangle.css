@@ -1,0 +1,32 @@
+.div{
+    width:0px;
+    height:0px;
+    background-color:none;
+    
+  /* border-top:100px solid  blue;*/
+    border-left:100px solid  transparent;
+    border-bottom:100px solid rgb(219, 12, 140);
+    border-right:100px solid transparent;
+    margin:auto;
+    margin-top:200px;
+    padding:none;
+}
+.raj{
+    border:1pxx solid yellow;
+   
+    width: 150px;
+    height:150px;
+    margin-top:150px;
+    margin-left:150px;
+    border:2px solid red;
+    border-bottom:2px green solid;
+    border-left:1px grey solid;
+    padding:20px;
+    border-radius:100px;
+    background-color:rgb(8, 201, 24)
+
+}
+
+
+
+
