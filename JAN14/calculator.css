@@ -1,0 +1,58 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width: 400px;
+    border: 2px solid black;
+    border-radius: 8px;
+    margin: 50px auto;
+}
+h1{
+    text-align: center;
+}
+#screen{
+    display: block;
+    font-size: 2rem;
+    margin: 2px auto;
+}
+#screen:focus{
+    outline: none;
+    
+}
+table{
+    margin: 0px auto;
+    border: 8px solid lightgrey;
+}
+
+
+
+td{
+    height: 50px;
+    width: 60px;
+    border: 2px solid rgb(185, 181, 181);
+    border-radius: 8px;
+    box-shadow: 1px 1px 2px gray;
+    transition: 150ms;
+}
+
+td:active{
+    transform: scale(0.85);
+}
+
+
+
+
+
+button{
+    height: 100%;
+    width: 100%;
+    font-size: 1.8rem;
+    border-radius: 8px;
+
+}
+
+button:hover{
+    cursor: pointer;
+}
