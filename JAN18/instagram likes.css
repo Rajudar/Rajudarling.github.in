@@ -1,0 +1,25 @@
+body{
+    margin-left: 400px;
+    margin-right: 400px;
+     
+}
+#nav{
+    display: flex;
+    justify-content: space-between;
+}
+#side{
+    display: flex;
+    justify-content: center;
+     
+}
+#icon{
+    display: flex;
+    justify-content: left;
+     
+} 
+img{
+    border: 3px solid black;
+}
+#like{
+    background-color:  white;
+}
