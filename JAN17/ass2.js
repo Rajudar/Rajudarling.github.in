@@ -12,6 +12,6 @@ function manupulate(n,x,y){
 }
  
 
-const years = ( manupulate(n,mulby4,addby9));
+const years = ( manupulate(n,mulby2,addby9));
 
-document. write(`multiply by 4 and addition by 9 are,${ans} respectivily`)
+document. write(`multiply by 2 and addition by 9 are,${ans} respectivily`)
