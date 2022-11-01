@@ -1,0 +1,40 @@
+main{
+    display: grid;
+    
+    grid-template-columns: 200px 200px 200px 200px 200px 200px;
+    grid-row: 200px 200px 200px 200px;
+    border: 1px solid black;
+    height: 600px;
+    grid-gap: 2px;
+}
+div{
+    display: grid;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(270deg,yellowgreen,pink);
+}
+.two{
+   grid-column-start:2 ;
+   grid-column-end: 5;
+  grid-row-start: 1;
+  grid-row-end:3 ;
+  background: linear-gradient(90deg,violet ,pink);
+}
+.three{
+    grid-column-start: 5;
+    grid-column-end: 7;
+    background: linear-gradient(90deg,yellowgreen,rgb(109, 177, 195));
+}
+.five{
+    grid-column-start: 5;
+    grid-column-end: 7;
+    background: linear-gradient(90deg,yellowgreen,rgb(109, 177, 195));
+}
+.eight{
+   grid-row-start:3 ;
+   grid-row-end:5 ;
+   grid-column-start:3 ;
+   grid-column-end: 5;
+   background: linear-gradient(90deg,violet ,pink);
+}
