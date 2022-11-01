@@ -1,0 +1,8 @@
+select{
+    background-color: orange;
+    padding: 18px;
+    margin: 10px auto;
+}
+select:hover{
+    background-color: rgb(153, 51, 75);
+}
